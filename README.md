@@ -11,3 +11,4 @@
 - Stripe
 - Prismic CMS
 - FaunaDB
+- OAuth
